@@ -2,6 +2,6 @@
 
 Neste repoítorio estarão os projetos feitos sobre o curso da Alura em :
 
-Front-end
-Back-end
-Banco de Dados
+Front-end <br>
+Back-end <br>
+Banco de Dados 
