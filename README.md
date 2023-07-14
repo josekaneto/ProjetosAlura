@@ -1,3 +1,3 @@
 # ProjetosAlura
 
-Neste repoítorio estarão os projetos feitos sobre os cursos da Alura
+Neste reposítorio estarão os projetos feitos jutamente com os cursos da Alura
